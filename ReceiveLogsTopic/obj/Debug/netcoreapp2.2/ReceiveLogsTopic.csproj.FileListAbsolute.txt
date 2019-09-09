@@ -1,0 +1,10 @@
+D:\Tools\rabbitMQ\ReceiveLogsTopic\bin\Debug\netcoreapp2.2\ReceiveLogsTopic.deps.json
+D:\Tools\rabbitMQ\ReceiveLogsTopic\bin\Debug\netcoreapp2.2\ReceiveLogsTopic.runtimeconfig.json
+D:\Tools\rabbitMQ\ReceiveLogsTopic\bin\Debug\netcoreapp2.2\ReceiveLogsTopic.runtimeconfig.dev.json
+D:\Tools\rabbitMQ\ReceiveLogsTopic\bin\Debug\netcoreapp2.2\ReceiveLogsTopic.dll
+D:\Tools\rabbitMQ\ReceiveLogsTopic\obj\Debug\netcoreapp2.2\ReceiveLogsTopic.csproj.CoreCompileInputs.cache
+D:\Tools\rabbitMQ\ReceiveLogsTopic\obj\Debug\netcoreapp2.2\ReceiveLogsTopic.AssemblyInfoInputs.cache
+D:\Tools\rabbitMQ\ReceiveLogsTopic\obj\Debug\netcoreapp2.2\ReceiveLogsTopic.AssemblyInfo.cs
+D:\Tools\rabbitMQ\ReceiveLogsTopic\bin\Debug\netcoreapp2.2\ReceiveLogsTopic.pdb
+D:\Tools\rabbitMQ\ReceiveLogsTopic\obj\Debug\netcoreapp2.2\ReceiveLogsTopic.dll
+D:\Tools\rabbitMQ\ReceiveLogsTopic\obj\Debug\netcoreapp2.2\ReceiveLogsTopic.pdb

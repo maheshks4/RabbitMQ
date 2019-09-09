@@ -1,0 +1,11 @@
+D:\Tools\rabbitMQ\RPCServer\bin\Debug\netcoreapp2.2\RPCServer.deps.json
+D:\Tools\rabbitMQ\RPCServer\bin\Debug\netcoreapp2.2\RPCServer.runtimeconfig.json
+D:\Tools\rabbitMQ\RPCServer\bin\Debug\netcoreapp2.2\RPCServer.runtimeconfig.dev.json
+D:\Tools\rabbitMQ\RPCServer\bin\Debug\netcoreapp2.2\RPCServer.dll
+D:\Tools\rabbitMQ\RPCServer\obj\Debug\netcoreapp2.2\RPCServer.csproj.CoreCompileInputs.cache
+D:\Tools\rabbitMQ\RPCServer\obj\Debug\netcoreapp2.2\RPCServer.AssemblyInfoInputs.cache
+D:\Tools\rabbitMQ\RPCServer\obj\Debug\netcoreapp2.2\RPCServer.AssemblyInfo.cs
+D:\Tools\rabbitMQ\RPCServer\bin\Debug\netcoreapp2.2\RPCServer.pdb
+D:\Tools\rabbitMQ\RPCServer\obj\Debug\netcoreapp2.2\RPCServer.dll
+D:\Tools\rabbitMQ\RPCServer\obj\Debug\netcoreapp2.2\RPCServer.pdb
+D:\Tools\rabbitMQ\RPCServer\obj\Debug\netcoreapp2.2\RPCServer.csprojAssemblyReference.cache

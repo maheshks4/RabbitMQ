@@ -1,0 +1,11 @@
+D:\Tools\rabbitMQ\RabbitMQExamples\bin\Debug\netcoreapp2.2\RabbitMQExamples.deps.json
+D:\Tools\rabbitMQ\RabbitMQExamples\bin\Debug\netcoreapp2.2\RabbitMQExamples.runtimeconfig.json
+D:\Tools\rabbitMQ\RabbitMQExamples\bin\Debug\netcoreapp2.2\RabbitMQExamples.runtimeconfig.dev.json
+D:\Tools\rabbitMQ\RabbitMQExamples\bin\Debug\netcoreapp2.2\RabbitMQExamples.dll
+D:\Tools\rabbitMQ\RabbitMQExamples\bin\Debug\netcoreapp2.2\RabbitMQExamples.pdb
+D:\Tools\rabbitMQ\RabbitMQExamples\obj\Debug\netcoreapp2.2\RabbitMQExamples.csproj.CoreCompileInputs.cache
+D:\Tools\rabbitMQ\RabbitMQExamples\obj\Debug\netcoreapp2.2\RabbitMQExamples.AssemblyInfoInputs.cache
+D:\Tools\rabbitMQ\RabbitMQExamples\obj\Debug\netcoreapp2.2\RabbitMQExamples.AssemblyInfo.cs
+D:\Tools\rabbitMQ\RabbitMQExamples\obj\Debug\netcoreapp2.2\RabbitMQExamples.dll
+D:\Tools\rabbitMQ\RabbitMQExamples\obj\Debug\netcoreapp2.2\RabbitMQExamples.pdb
+D:\Tools\rabbitMQ\RabbitMQExamples\obj\Debug\netcoreapp2.2\RabbitMQExamples.csprojAssemblyReference.cache
